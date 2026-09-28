@@ -2,7 +2,7 @@
 
 import pickle , Reading_Files
 
-f = open("d:/emp_data" , 'wb' , 4096)
+f = open("d:/emp_data" , 'wb')
 n = int(input(" how many employees "))
 
 for i in range(n):
